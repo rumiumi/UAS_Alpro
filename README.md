@@ -11,8 +11,7 @@
 
 **Flowchart Program**
 
-[!flowchart]
-(https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/flowchart.PNG)
+![flowchart](https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/flowchart.PNG)
 
 **Code Program**
 ```
@@ -54,8 +53,6 @@ int main()
 
 **Output Program**
 
-[!output01]
-(https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/output01.PNG)
+![output01](https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/output01.PNG)
 
-[!output02]
-(https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/output02.PNG)
+![output02](https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/output02.PNG)
