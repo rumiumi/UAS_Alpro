@@ -11,7 +11,7 @@
 
 **Flowchart Program**
 
-![flowchart](https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/flowchart.PNG)
+![flowchart](https://github.com/rumiumi/UAS_Alpro/blob/master/screenshot/flowchart.png)
 
 **Code Program**
 ```
