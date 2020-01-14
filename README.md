@@ -1,7 +1,7 @@
 # UAS_Alpro
 
 
-## Matriks Identitas Ordo 5x5
+## Matriks Identitas
 
 **Alur Algoritma**
 1. Membuat fungsi identitas `int Identity(int num)` dengan variabel `num` digunakan sebagai ukuran matriks
